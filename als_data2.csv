@@ -1,0 +1,519 @@
+SOD1,Exon ,c.158A>G,"Porland, Japan",36-68,LL,Positive,N/A
+SOD1,Exon ,c.13G>T,"Japan, Turkey","20, 44",Limb (rapid and slow),N/A,N/A
+SOD1,Exon ,c.13G>A,"Japan, UK, Canada",24-60,"LL (rapid, sensory)",Positive,N/A
+SOD1,Exon ,c.14C>T,"USA, Canada, Sweden, Italy",21-78,"UL (rapid), LL, bulbar, vocal cord paralysis",Positive,None
+SOD1,Exon ,c.13_14delinsTT,Korea,35-48,UL,Positive,None
+SOD1,Exon ,c.16G>T,Switzerland,"36, 70",LL,Positive,N/A
+SOD1,Exon ,c.18_35 dup18 (GGCCCAGTGCAGGGCATC),Japan,47-66,"LL, dyspnea",Positive,None
+SOD1,Exon ,c.20_21delinsTT,"Japan, China",41-59,"UL, LL (rapid)",Negative,N/A
+SOD1,Exon ,c.19T>G,Japan,46-53,"LL, UL",Positive,N/A
+SOD1,Exon ,c.19T>A,USA,34-66,"LL>UL, bulbar",Positive,N/A
+SOD1,Exon ,c.20G>A,Japan,33,LL,Negative,N/A
+SOD1,Exon ,c.21C>G,China,53-74,LL>UL,Positive,None
+SOD1,Exon ,c.23T>A,Japan,"36, 62","UL, LL",N/A,N/A
+SOD1,Exon ,c.26T>A,Austria,43-66,Bulbar,Positive,N/A
+SOD1,Exon ,c.25C>G,"Sweden, Taiwan",N/A,NaN,N/A,None
+SOD1,Exon ,c.31G>C,Italy,68,LL,Positive,None
+SOD1,Exon ,GGC>GTT,Korea,20-41,LL (rapid),Positive,N/A
+SOD1,Exon ,c.32G>C,Taiwan,46,LL,N/A,None
+SOD1,Exon ,c.34G>T,Italy,"53, 55, 63","UL, LL",Positive,N/A
+SOD1,Exon ,c.35A>C,Turkey,N/A,NaN,N/A,N/A
+SOD1,Exon ,c.37G>C,Italy,63,LL,Positive,N/A
+SOD1,Exon ,c.38G>C,Italy,58-63,LL (slow),Positive,N/A
+SOD1,Exon ,c.43G>A,USA,N/A,NaN,N/A,N/A
+SOD1,Exon ,c.44T>G,Sweden,39,LL,Positive,None
+SOD1,Exon ,c.49G>A,"Japan, Taiwan",18,UL (rapid),N/A,None
+SOD1,Exon ,c.50G>C,"USA, Korea",51,Limb,N/A,N/A
+SOD1,Exon ,c.56_58delTCA,France,80,UL (Paraneoplastic),Negative,None
+SOD1,Exon ,c.59A>G,"France, Italy, Spain","32, 41, 52, 77",UL>LL,Positive,None
+SOD1,Exon ,c.62T>G,"Sweden, Korea, USA, China",37-77,LL,N/A,N/A
+SOD1,Exon ,c. 63C>G,Italy,67,Limb,N/A,N/A
+SOD1,Exon ,c.64G>A,Scotland,N/A,NaN,N/A,N/A
+SOD1,Exon ,c.65A>G,"Canada, Spain",38-71,"UL, LL",Positive,N/A
+SOD1,Exon ,c.68A>T,USA,48,NaN,N/A,N/A
+SOD1,Exon ,c.68A>G,Italy (Bangladesh),40,LL (with muscle mitochondrial dysfunction),Negative,N/A
+SOD1,Exon ,c.69G>C,Japan,46,LL,Positive,N/A
+SOD1,Exon ,c.82_87del,Philippines (Canada),51-61,LL,Positive,N/A
+SOD1,Exon ,c.88_89insA,China,19-43,LL,Positive,None
+SOD1,Exon ,c.89T>C,China,N/A,N/A,Positive,N/A
+SOD1,Exon ,c.95T>C,"France, Japan","49, 50","LL (incontinence, sensory disturbance, ataxia)",Negative,Cerebellar and brainstem atrophy
+SOD1,Exon ,c.112G>A,"Canada, USA, Catalonia, Korea, Taiwan",40,Bulbar,N/A,None
+SOD1,Exon ,c.113G>T,Japan,62,LL,Negative,None
+SOD1,Exon ,c.115C>G,"USA, Cabada Japan",29-58,Bulbar,,None
+SOD1,Exon ,c.116T>G ,France,N/A,N/A,Positive,N/A
+SOD1,Exon ,c.122A>G,Italy,68,LL,Negative,None
+SOD1,Exon ,c.124G>A,"USA, Italy, France (Polish)",27-75,"LL, UL, bulbar",Positive,FTD
+SOD1,Exon ,c.125G>A,"USA, Italy, Sweden",29-63,"LL, UL (rapid)",Positive,None
+SOD1,Exon ,c.131A>G,"USA, Japan",30-62,LL (rapid),Negative,None
+SOD1,Exon ,c.137T>G,Italy,59,UL (slow),Positive,N/A
+SOD1,Exon ,c.137T>C,Korea,51-71,"UL, LL, bulbar (rapid)",Positive,N/A
+SOD1,Exon ,c.139C>G,France,N/A,NaN,N/A,N/A
+SOD1,Exon ,c.140A>G,"Japan, USA, Pakistan, Germany, Norway",22-65,LL,Positive,None
+SOD1,Exon ,c.142G>T,"Italy, Iran",29-45,"UL, LL, bulbar",Positive,None
+SOD1,Exon ,c.143T>C,China,N/A,NaN,N/A,N/A
+SOD1,Exon ,c.146A>G,Sweden,53,NaN,N/A,N/A
+SOD1,Exon ,c.147T>G,UK,29-54 ,"UL, LL (rapid, lower back pain)",Positive,N/A
+SOD1,Exon ,c.148G>A,France,N/A,NaN,Positive,N/A
+SOD1,Exon ,c.164C>G,Sweden,N/A,NaN,N/A,N/A
+SOD1,Exon ,NaN,NaN,N/A,NaN,N/A,N/A
+SOD1,Exon ,c.179G>T,Sweden,N/A,NaN,N/A,N/A
+SOD1,Exon ,c.184G>C,Italy,56,LL,Negative,None
+SOD1,Exon ,c.193T>C,USA,39,LL,Positive,None
+SOD1,Exon ,c.197A>G,"Italy, Spain, USA, Zimbabwe",34-69,LL,Positive,N/A
+SOD1,Exon ,c.199C>G,USA,N/A,NaN,N/A,N/A
+SOD1,Exon ,c.199C>T,"Korea, Canada, Serbia",21-46,LL,Positive,None
+SOD1,Exon ,c.200C>G,France,N/A,NaN,N/A,N/A
+SOD1,Exon ,c.203T>C,"Italy, Canada","36, 50",LL,Negative,N/A
+SOD1,Exon ,c.203T>G,France,N/A,NaN,Positive,N/A
+SOD1,Exon ,NaN,Turkey,"19, 57",Limb (very rapid),N/A,N/A
+SOD1,Exon ,c.217G>A,"UK, Japan",29-75,LL>UL (decreased vibration sensation),Positive,N/A
+SOD1,Exon ,c.217G>T,Canada,71,LL,Negative,N/A
+SOD1,Exon ,c.229G>T,"Denmark, Canada",42-67,"Bulbar, LL",Positive,Personal change
+SOD1,Exon ,c.230A>T,NaN,46,NaN,Positive,
+SOD1,Intron,c.240-7T>G,Switzerland,42,LL,Positive,N/A
+SOD1,Exon ,c.242A>G,Ireland,24,LL,Negative,N/A
+SOD1,Exon ,c.250G>A,Taiwan,45-76,LL,N/A,None
+SOD1,Exon ,c.251A>G,France,N/A,NaN,N/A,N/A
+SOD1,Exon ,c.253T>G,"USA, Japan",38-74,UL (hand),Negative,None
+SOD1,Exon ,c.255G>C,"France, Iran",13-43,LL,Positive,N/A
+SOD1,Exon ,c.255G>C,"France, Italy, China",20-69 ,LL,Positive,None
+SOD1,Exon ,c.256G>C,"USA, Taiwan",36,LL,Negaive,None
+SOD1,Exon ,c.256G>A,"Japan, Italy","37, 38, 61",LL (rapid),Negative,None
+SOD1,Exon ,c.259A>G,Sweden,55,NaN,N/A,N/A
+SOD1,Exon ,c.260A>T,China,N/A,NaN,N/A,N/A
+SOD1,Exon ,c.260A>G,"UK, Korea, Turkey, Switzerland","28 , 54, 76","LL, UL (facial diplegia)",Posiive,N/A
+SOD1,Exon ,c.261T>A,Germany,41-68,LL (rapid),N/A,N/A
+SOD1,Exon ,c.262G>A,UK,N/A,NaN,N/A,N/A
+SOD1,Exon ,c.263T>C,Sweden,N/A,NaN,N/A,N/A
+SOD1,Exon ,delACT GCT GAC,Sweden,N/A,NaN,N/A,N/A
+SOD1,Exon ,c.268G>A,Sweden,N/A,NaN,N/A,N/A
+SOD1,Exon ,c.269C>T,USA,"15, 69, 69","LL, UL (with sensory neuropathy)",Positive,N/A
+SOD1,Exon ,c.272A>T,Japan,"40, 44, 47, 53","LL, UL",Positive,N/A
+SOD1,Exon ,"c.272A>C, homozygous ","Finland, Sweden, Italy, Canada, USA, Switzerland, Iran, UK, Belgium,  Netherlands",20-94,"LL; Slow insidious onset of paresis in the legs which gradually spreads up to the arms, thoracic and bulbar musculature, in addition to long survival, and atypical non?motor features such as ataxia, neuralgic, aching pain, heat sensations and bladder disturbance",Positive,None
+SOD1,Exon ,"c.272A>C, heterozygous ","Italy, Germany, Netherlands",42-66,"LL; facial onset sensory motor neuronopathy (FOSMN) syndrome, MGUS-ALS",Positive,None
+SOD1,Exon ,c.271G>A,Italy,71,LL,Positive,None
+SOD1,Exon ,c.280G>T,"Canada, USA",33-71,LL,Negative,None
+SOD1,Exon ,c.280G>C,"Scotland, UK",29-40,NaN,N/A,N/A
+SOD1,Exon ,c.280G>A,"Japan, Canada",23-72 ,"LL (slow, sensory and autonomic disturbances)",Negative,N/A
+SOD1,Exon ,c.281G>C,"Canada, USA",47.9,NaN,N/A,None
+SOD1,Exon ,c.281G>A,"USA, Italy",38-71,"LL, UL (slow)",Negative,None
+SOD1,Exon ,c.281G>T,UK,35-56,NaN,N/A,N/A
+SOD1,Exon ,c.284T>C,USA,N/A,NaN,N/A,N/A
+SOD1,Exon ,c.286G>A,Italy,"26, 45",LL,Positive,N/A
+SOD1,Exon ,c.287C>G,Italy,N/A,NaN,N/A,N/A
+SOD1,Exon ,c.287C>T,UK,N/A,NaN,N/A,N/A
+SOD1,Exon ,c.289G>A,France,30-44,LL,Positive,N/A
+SOD1,Exon ,c.290A>T,USA,62,Asymptomatic,N/A,N/A
+SOD1,Exon ,c.292G>A,Sweden,N/A,NaN,N/A,N/A
+SOD1,Exon ,c.292G>C,NaN,N/A,NaN,N/A,N/A
+SOD1,Exon ,c.298A>G,Netherlands,60,Bulbar,Positive,N/A
+SOD1,Exon ,c.301G>A,USA,33-41,NaN,N/A,N/A
+SOD1,Exon ,c.302A>G,"USA, UK, Canada",21-72,NaN,N/A,None
+SOD1,Exon ,c.304G>A,UK,23-51,NaN,N/A,N/A
+SOD1,Exon ,c.304G>T,Japan,57,Bulabar (vocal cord paralysis),Negative,N/A
+SOD1,Exon ,c.304G>C,Japan,52,UL,Positive,N/A
+SOD1,Exon ,c.305A>G,UK,37,NaN,,
+SOD1,Exon ,c.313A>T,Japan,57,"UL, LL",Positive,N/A
+SOD1,Exon ,c.317C>T,"Sweden, China, Spain (Catalonia), USA",32-65,LL>UL,Positive,N/A
+SOD1,Exon ,delTCA CTC,Sweden (Hispanic),52,UL (flail arm syndrome),Positive,N/A
+SOD1,Exon ,c.319C>G,"USA, Japan, canada, USA",30-68,LL>UL>bulbar (neurogenic bladder (overactive bladder) and sensory impairment),Positive,None
+SOD1,Exon ,c.319C>T,"Italy, Taiwan",38-55,LL>UL,Positive,None
+SOD1,Exon ,c.326G>T,UK,48-72,"LL, UL",Positive,None
+SOD1,Exon ,c.328G>T,"USA, Italy","51, 63","Bulbar, LL, UL",Positive,None
+SOD1,Exon ,c.335G>A,"Canada, China, Japan, Taiwan",20-69,"Bulbar, UL, LL",Positive,N/A
+SOD1,Exon ,c.338T>C,USA,44,NaN,,None
+SOD1,Exon ,c.339C>G,"Spain, Italy",24-66,"Bulbar, UL, LL",Positive,N/A
+SOD1,Exon ,c.340A>T,Germany,49,vocal cord paralysis,Positive,None
+SOD1,Exon ,c.341T>C,"UK, USA, Italy, Canada, Japan, Scotland",20-84,"UL, LL, Bulbar, face",Positive,FTD
+SOD1,Exon ,c.344G>C,Sweden,37,UL,Negative,N/A
+SOD1,Exon ,c.346C>G,Germany,36-74,NaN,Negative,None
+SOD1,Exon ,c.346C>T,Italy,72,UL (rapid),Positive,None
+SOD1,Exon ,NaN,N/A,N/A,NaN,N/A,N/A
+SOD1,Exon ,c.352C>G,"Germany, Syria, Switzerland, Sweden",35-44,LL,Positive,N/A
+SOD1,Exon ,c.355G>T,Japan,38,LL ( with critical autonomic dysfunction),Positive,N/A
+SOD1,Exon ,c.355G>C,Sweden,N/A,NaN,N/A,N/A
+SOD1,Exon ,c.355G>A ,Italy,N/A,NaN,N/A,N/A
+SOD1,Exon ,delGinsAAAAC ,UK,35,NaN,N/A,N/A
+SOD1,Intron ,A>G 11 bp before exon 5,NaN,N/A,NaN,N/A,N/A
+SOD1,Intron ,T>G 10 bp before exon 5,USA,54,NaN,N/A,None
+SOD1,Intron ,c.358 – 304C>G,France,33-69,LL (Parkinsonism),Positive,N/A
+SOD1,Exon ,c.362A>T,USA,N/A,NaN,N/A,N/A
+SOD1,Exon ,c.365A>G,"Italy, France",70,LL (slow),Positive,None
+SOD1,Exon ,c.374A>T,NaN,N/A,NaN,N/A,N/A
+SOD1,Exon ,c.374A>G,Sweden,N/A,NaN,N/A,N/A
+SOD1,Exon ,c.376G>C,UK,55-70 ,NaN,Positive,N/A
+SOD1,Exon ,c.376del,NaN,N/A,NaN,N/A,N/A
+SOD1,Exon ,c.380T>C,Japan,28-80,LL,Positive,None
+SOD1,Exon ,TTG>G (2 bp deletion),"Canada, Japan",22-54,"LL, UL",Positive,N/A
+SOD1,Exon ,c.380T>A,USA,58,NaN,N/A,N/A
+SOD1,Exon ,c.382G>C,Turkey,60,"LL (rapid, severe pain syndrome)",Negative,N/A
+SOD1,Exon ,c.380_383dupTGGG,Denmark,41-59,"UL, LL",Positive,N/A
+SOD1,Exon ,delTT,Japan,N/A,NaN,N/A,N/A
+SOD1,Exon ,c.400_402delGAA,"USA, Italy","44, 54",LL (slow),N/A,None
+SOD1,Exon ,c.401_402insTT,UK,N/A,NaN,N/A,N/A
+SOD1,Exon ,NaN,Netherlands,N/A,NaN,N/A,N/A
+SOD1,Exon ,insTT,UK,45,NaN,N/A,N/A
+SOD1,Exon ,c.401A>T,China,N/A,NaN,N/A,N/A
+SOD1,Exon ,delGAA,"USA, Italy",55,Limb,Negative,N/A
+SOD1,Exon ,c.404G>A,Japan,"34, 52, 63","UL, LL ",Negative,N/A
+SOD1,Exon ,c.404G>C,"Japan, China","47, 62",LL,Positive,None
+SOD1,Exon ,NaN,Italy,45,LL,Positive,N/A
+SOD1,Exon ,c.412A>G,Italy,"48, 58, 74",LL,Positive,N/A
+SOD1,Exon ,c.413C>G,Taiwan,"36, 49",Bulbar,Positive,None
+SOD1,Exon ,c.416G>A,Taiwan,41,LL,Negative,None
+SOD1,Exon ,c.418A>C,Spain (Catalonia) ,"55, 59, 60","UL, LL",Positive,N/A
+SOD1,Exon ,c.418A>G,NaN,,NaN,,
+SOD1,Exon ,c.420C>A,Canada,N/A,NaN,N/A,N/A
+SOD1,Exon ,c.422C>G,USA,72,UL,Negative,None
+SOD1,Exon ,c.424G>T,Sweden,34,LL (lower back pain),Positive,N/A
+SOD1,Exon ,c.425G>C,"Japan, Korea, USA","51, 57","UL (rapid), LL",N/A,N/A
+SOD1,Exon ,c.425G>A,"Japan, Korea","43, 51",LL,Positive,N/A
+SOD1,Exon ,c.434T>C,"USA, Iran",27-45,LL,N/A,N/A
+SOD1,Exon ,c.435G>C,"Canada, USA, Italy, Rumania, Switzerland, Turkey",28-72,LL>UL,Positive,FTD
+SOD1,Exon ,c.435G>T,Switzerland,"28, 71",LL (slow),Positive,N/A
+SOD1,Exon ,c.435delGinsCGTTTA,Japan,39,UL,Positive,None
+SOD1,Exon ,c.436G>A,USA,48,NaN,N/A,None
+SOD1,Exon ,c.437C>G ,Yugoslavia,N/A,NaN,N/A,N/A
+SOD1,Exon ,c.439T>C,"Japan, China",40,LL,Negative,N/A
+SOD1,Exon ,c.441T>A,China,24-52,LL,Negative,N/A
+SOD1,Exon ,c.442G>A,Italy,56,Vocal cord paralysis,Negative,None
+SOD1,Exon ,c.443G>A,"China, Iran, France",45-73,UL,N/A,None
+SOD1,Exon ,c.442G>C,Iceland,N/A,NaN,N/A,N/A
+SOD1,Exon ,c.442G>T,Italy,"46, 48, 52","UL, LL (slow)",Positive,non-executive cognitive impairment
+SOD1,Exon ,c.445G>A,Japan,28,"UL, bulabr, UL",Negative,None
+SOD1,Exon ,c.446T>G,"USA,  Australia, Turkey",43.5,"LL, UL, bulbar",N/A,None
+SOD1,Exon ,c.449T>C,"Canada, UK, China, Italy, Japan",24-59,"LL, UL, Bulbar (vocal cord paralysis)",Positive,None
+SOD1,Exon ,c.455T>G,Sweden,N/A,NaN,N/A,N/A
+SOD1,Exon ,c.455T>C,Germany,48,Bulbar,Positive,N/A
+Alsin,Exon ,c.138delA,Tunisia,3.5-10,JALS,Positive,None
+Alsin,Exon ,c.145G>A ,Portugal,3,IAHSP,Positive,None
+Alsin,Exon ,c.1425_1428delAGAG,NaN,,NaN,Positive,None
+Alsin,Exon ,c.1310_1313delGCAG,China,1-1.1,IAHSP,Positive,None
+Alsin,Exon ,c.2351_2351 + 17delAGCAAGTATCCAGTCCCG,NaN,,NaN,,
+Alsin,Exon ,c.1867_1868delCT,Saudi Arabia,,JPLS,Positive,None
+Alsin,Exon ,c.299G>T,Italy,,JALS,Positive,None
+Alsin,Exon ,c.2581-2A>G,NaN,,NaN,Positive,None
+Alsin,Exon ,c.470G>A,Turkey,1,IAHSP,Positive,None
+Alsin,Exon ,c.553delA,Turkey,1.8,IAHSP,Positive,None
+Alsin,Exon ,c.1130delAT,Italy,1.5,IAHSP,Positive,None
+Alsin,Exon ,c.2660delAT,Italy,1.4,IAHSP,Positive,None
+Alsin,Exon ,c.1471_1480delGTTTCCCCCA,France,1.5,IAHSP,Positive,None
+Alsin,Exon ,c.3742delA,Algeria,1,IAHSP,Positive,None
+Alsin,Exon ,c.1425_1426delAG,Kuwait,1.2,JPLS,Positive,None
+Alsin,Exon ,c.1548delAG,Kuwait,0.8-1.2,IAHSP,Positive,None
+Alsin,Exon ,c.1619G>A,Italy,2,JPLS,Positive,None
+Alsin,Exon ,c.1825_1826insCAGTG,Hungary,1,IAHSP,Positive,None
+Alsin,Exon ,c.3529G>T,NaN,,NaN,Positive,None
+Alsin,Exon ,c.2000-2A>T,Germany,1.5,IAHSP,Positive,None
+Alsin,Exon ,c.G2002T,Bangladesh,,JALS (generalized dystonia and cerebellar signs),Positive,None
+Alsin,Exon ,c.2143C>T,The Netherlands,0.7-1.5,IAHSP,Positive,None
+Alsin,Exon ,c.2980-A>G,Cyprus,2,JPLS,Positive,None
+Alsin,Exon ,IVS22+5G>C,Japan,1.1-3,JALS,Positive,None
+Alsin,Exon ,c.3565delG,NaN,,NaN,Positive,None
+Alsin,Exon ,c.2761C>T,Saudi Arabia,2,IAHSP,Positive,None
+Alsin,Exon ,c.2992C>T,Bukhari Jewish,,IAHSP,Positive,None
+Alsin,Exon ,c.3512+1G>A,Pakistan,0.8,JALS,Positive,None
+Alsin,Exon ,c.3836+1G>T,Italy,1,IAHSP,Positive,None
+Alsin,Exon ,c.4844delT,Pakistan,1.5,IAHSP,Positive,None
+Alsin,Exon ,c.4573dupG,Turkey,,JALS (generalized dystonia and cerebellar signs),Positive,None
+SETX,Exon ,c.8C>T,USA,10,LL,Positive,None
+SETX,Exon ,c.1166T>C,"Belgium, Italy",17,LL>UL,Positive,None
+SETX,Exon ,c.3353C>T,China,42,UL,Negative,None
+SETX,Exon ,c.4660T>G,USA,6,LL,Positive,None
+SETX,Exon ,c.6052A>G,Italy,54,"UL, face (thin cervical spinal cord)",Positive,None
+SETX,Exon ,c.6085C>G,USA,35,LL,Positive,None
+SETX,Exon ,c.6407G>A,Austria,6,LL,Positive,None
+SETX,Exon ,c.7640T>C,USA,30,"LL, UL",Positive,None
+SPG11,Exon ,c.118C>T,Italy,,"Bulbar, UL, LL",Positive,None
+SPG11,Exon ,c.267G>A,NaN,,NaN,,
+SPG11,Exon ,c.733_734 delAT,Japan,16-21,"Bulbar, LL (Urinary incontinence)",Positive,None
+SPG11,Exon ,c.5974C>T,NaN,,NaN,,
+SPG11,Exon ,c.704_705delAT,Canada,"14, 16",LL>UL,Positive,None
+SPG11,Exon ,c.5199delA,NaN,,NaN,,
+SPG11,Exon ,c.2198T>G,Italy,,"Bulbar, UL, LL (Acute respiratory failure)",Positive,Mild mental retardation
+SPG11,Exon ,c.2608A>G,Italy,20-23,"Bulbar, UL, LL",Positive,None
+SPG11,Exon ,c.3076_3077 insA,Turkey,,"UL, LL",Positive,None
+SPG11,Exon ,c.4461_4462 delGT,Italy,15-21,"Bulbar, UL, LL",Positive,None
+SPG11,Intron,c.IVS30 + 1 G > A,Italy,18-22,"Bulbar, UL",Positive,None
+SPG11,Exon ,c.5970C>G,Italy,14-18,"Bulbar, UL, LL",Positive,"Mental retardation, learning disability"
+SPG11,Exon ,c.6157G>A,Brazil,,"Bulbar, UL, LL",Positive,None
+SPG11,Exon ,c.7029_7030 insT,Canada,,LL,Positive,Mental retardation
+FUS/TLS,Exon ,c.52C>T,France,"36, 74",LL,N/A,None
+FUS/TLS,Exon ,c.170_172delCTT,France,80,Limb,N/A,None
+FUS/TLS,Exon ,c.287_291 delCCTACinsAT,Europe,20,NaN,N/A,Mental retardation
+FUS/TLS,Exon ,CCC>CTC,USA,N/A,NaN,N/A,FTD
+FUS/TLS,Exon ,c.344G>A,Netherlands,N/A,Limb,Negative,None
+FUS/TLS,Exon ,c.430_447delGGAAAGCTAT,"France, USA, Turkey","57, 65","LL, UL",N/A,None
+FUS/TLS,Exon ,c.467G>A,Italy,33,Bulbar,Positive,Dementia
+FUS/TLS,Exon ,c.518_523delGAGGTG,"Europe, USA",43.3,NaN,N/A,"Schizofrenia, FTD"
+FUS/TLS,Exon ,c.523-524 insGAGGTG,USA,65,NaN,N/A,CBS
+FUS/TLS,Exon ,c.559G>A,Canada,79,Bulbar,Positive,None
+FUS/TLS,Exon ,c.571G>A,Italy,43,LL,,None
+FUS/TLS,Exon ,c.616G>A,South Korea,N/A,NaN,N/A,FTD
+FUS/TLS,Exon ,c.646C>T,Italy,50,NaN,N/A,None
+FUS/TLS,Exon ,c.661_663delAGT,Italy,69,Bulbar,Positive,None
+FUS/TLS,Exon ,c.674G>T,Italy,26,LL,N/A,None
+FUS/TLS,Exon ,c.676G > A,France,62,Bulbar,N/A,
+FUS/TLS,Exon ,c.680_691delGGCGGCGGTGGT,Italy,N/A,NaN,N/A,N/A
+FUS/TLS,Exon ,c.679_687delGGCGGCGGT,Italy,N/A,NaN,N/A,N/A
+FUS/TLS,Exon ,c.682_687delGGCGGT,Italy,N/A,NaN,N/A,N/A
+FUS/TLS,Exon ,c.676_684del,Korea,44,Bulbar,N/A,N/A
+FUS/TLS,Exon ,c.681_684delGGC,Korea,59,Limb,N/A,None
+FUS/TLS,Exon ,c.688G>T,Italy,65,LL,N/A,None
+FUS/TLS,Exon ,c.700C>T,Italy,40,UL/LL,N/A,None
+FUS/TLS,Exon ,c.701G>T,Italy,66,Limb,N/A,None
+FUS/TLS,Exon ,c.730C>T,USA,54,NaN,N/A,None
+FUS/TLS,Exon ,c.1196G>T,Korea,73,Bulbar,N/A,None
+FUS/TLS,Exon ,c.1204_1232 delinsGGAGGTGGAGG,USA,65,Bulbar,Negative,None
+FUS/TLS,Exon ,c.1317T>C,USA,N/A,NaN,N/A,N/A
+FUS/TLS,Exon ,c.1385C>T,Netherlands,"59, 63","UL, LL",Positive,None
+FUS/TLS,Exon ,c.1392G>T,Japan,74,"Bulbar, UL",Positive,None
+FUS/TLS,Exon ,c.1394_1541delCTACCGGGGCCGCGGCGGGGACCGTGGGGCTTCCGAGGG,USA,20,Bulbar,Positive,None
+FUS/TLS,Exon ,c.1420_1421insGT,Japan,26,LL,Negative,None
+FUS/TLS,Exon ,c.1449_1488delCTACCGGGGCCGCGGCGGGGACCGTGGAGGCTTCCGAGGG,Europe,32,NaN,N/A,N/A
+FUS/TLS,Exon ,c.1459C>T,Netherlands,N/A,Spinal,Positive,None
+FUS/TLS,Exon ,c.1475delG,Japan,17,UL,Positive,Mental retardation
+FUS/TLS,Exon ,c.1483delC,Europe,23-72,Bulbar,N/A,None
+FUS/TLS,Exon ,c.1483C>T,"China, Europe, Germany, Korea, Netherlands, USA",14-44,"Bulbar, LL",Positive,None
+FUS/TLS,Exon ,c.1484delG,Canada,19,UL (rapid),Positive,Learning disabilities
+FUS/TLS,Exon ,c.1485delA,"Europe, Japan",13-29,"UL, LL",N/A,Learning disabilities
+FUS/TLS,Exon ,"c.1486delG, homozygous",Italy,39,UL,N/A,N/A
+FUS/TLS,Exon ,c.1506dupA,Canada,49,UL,N/A,None
+FUS/TLS,Exon ,c.1507_1508delAG,Korea,34,Spinal,N/A,None
+FUS/TLS,Exon ,c.1509_1510delAG,"China, Korea",19,UL,Positive,Learning disabilities
+FUS/TLS,Exon ,c.1520G>A,"Italy, UK",41-70,Limb,Negative,None
+FUS/TLS,Exon ,c.1527_1528insTGCC,Europe,23-46,"Bulbar, Limb",,None
+FUS/TLS,Exon ,c.1528A>G,"Japan, Spain",31-43,LL,Negative,None
+FUS/TLS,Exon ,c.1529A>G,Germany,39-55,Limb,Negative,None
+FUS/TLS,Exon ,c.1529A>T,Japan,39,LL,Negative,None
+FUS/TLS,Exon ,c.1537T>C,Japan,60,Limb,,None
+FUS/TLS,Exon ,c.1540A>G,United Kingdom,N/A,NaN,,None
+FUS/TLS,Exon ,c.1542G>C,"China, France, Italy, Japan, USA",24,UL,Positive,None
+FUS/TLS,Exon ,c.1543G>T,USA,32.5,NaN,N/A,None
+FUS/TLS,Exon ,c.1547A>T,China,44,Limb,Positive,None
+FUS/TLS,Exon ,c.1549C>G,Taiwan,42,Bulbar,Positive,None
+FUS/TLS,Exon ,c.1550A>C,Japan,30,Limb,,None
+FUS/TLS,Exon ,"c.1551C>G, homozygous",USA,45,NaN,N/A,None
+FUS/TLS,Exon ,c.1552A>G,USA,46,Limb,N/A,None
+FUS/TLS,Exon ,c.1553G>A,USA,40.3,NaN,N/A,None
+FUS/TLS,Exon ,c.1554_1557delACAG,United Kingdom,18,UL,Positive,Learning difficulties 
+FUS/TLS,Exon ,c.1555C>T,France,20,UL,N/A,None
+FUS/TLS,Exon ,c.1561C>T,"Africa, Australia, Canada, China, Europe, France, Germany, Italy, Japan, Netherlands, Spain, United Kingdom, USA",25-62,"Bulbar, UL, LL, drop head (proximal upper limb onset with axial involvement)",Positive,Parkinsonism and dementia 
+FUS/TLS,Exon ,c.1561C>G,"China, Europe, Italy, USA",39.6,"UL, LL",N/A,None
+FUS/TLS,Exon ,c.1561C>A,France,54,Bulbar,N/A,None
+FUS/TLS,Exon ,c.1562G>A,"Australia, Belgium, Cambodia, China, France, Italy, Netherlands, Quebec, Taiwan, United Kingdom, USA",32-55,"UL, LL",Negative,FTD 
+FUS/TLS,Exon ,c.1562G>T,"China, Europe, France, Italy",36-71,"UL, LL (Frail arm)",N/A,None
+FUS/TLS,Exon ,c.1564A>G,USA,28.5,NaN,N/A,None
+FUS/TLS,Exon ,c.1570A>T,United Kingdom,,Spinal,,None
+FUS/TLS,Exon ,c.1571G>C,USA,61.6,Spinal,N/A,None
+FUS/TLS,Exon ,c.1572G>C,"Spain, USA",34-48,UL (cortical and cerebellar atrophy),N/A,None
+FUS/TLS,Exon ,NaN,Turkey,"32, 53",Limb,N/A,N/A
+FUS/TLS,Exon ,c.1574C>T,"China, Europe, Italy, Japan, United Kingdom, USA, Turkey",,"Bulbar, UL, LL (rapid)",Positive,None
+FUS/TLS,Exon ,c.1581delA,Korea,44,Limb,N/A,None
+VAPB,Exon ,c.137C>T,UK,73,UL,Negative,None
+VAPB,Exon ,c.166C>T,"Brazil, French Japanese",25-55,"UL, LL (postural tremor)",Negative,None
+VAPB,Exon ,NaN,Netherlands,65,LL (with C9orf72 repeat expansion),N/A,None
+ANG,Exon ,c.3G>A,Italy,"62, 63",UL (Parkinsonism),Positive,N/A
+ANG,Exon ,c.35T>C,Italy,73,NaN,N/A,
+ANG,Exon ,c.36C>T,"Germany, Netherlands",71,Limb,Positive,None
+ANG,Exon ,NaN,Netherlands,N/A,NaN,N/A,N/A
+ANG,Exon ,NaN,Netherlands,N/A,NaN,N/A,N/A
+ANG,Exon ,c.61C>T,"USA, Italy, Netherlands",55,Limb (Parkinsonism),Positive,N/A
+ANG,Exon ,c.107A>T,"Ireland, Scotland, the Netherlands","48, 57","Bulbar, limb",N/A,N/A
+ANG,Exon ,c.122A>T,"Ireland, Scotland, USA, Netherlands, Germany, Belgium, France",50-70,"Bulbar, UL, LL (Parkinsonism)",Positive,FTD
+ANG,Exon ,c.122A>G,"Ireland, Sweden, Netherlands","66, 83",Bulbar,N/A,N/A
+ANG,Exon ,c.155G>A,"USA, Netherlands",N/A,NaN,N/A,N/A
+ANG,Exon ,c.164G>A,"Ireland, UK, Netherlands",66,Bulbar,N/A,N/A
+ANG,Exon ,c.112T>C,USA,N/A,NaN,N/A,N/A
+ANG,Exon ,c.189C>G,"Europe, Netherlands",45-47,"Bulbar, limb",N/A,N/A
+ANG,Exon ,c.191A>T,"Ireland, Scotland, Netherlands","27, 45, 70","Bulbar, limb",N/A,N/A
+ANG,Exon ,c.122A>T,"Ireland, Scotland",N/A,NaN,N/A,FTD
+ANG,Exon ,c.121A>G,"Sweden, Ireland, USA",N/A,NaN,N/A,N/A
+ANG,Exon ,c.137A>G,USA,N/A,NaN,N/A,N/A
+ANG,Exon ,c.208A>G,"Scotland, Ileland, Italy, France, Germany, Sweden",31-86,"Bulbar, LL",Positive,N/A
+ANG,Exon ,c.218A>G,Japan,N/A,NaN,N/A,N/A
+ANG,Exon ,c.232 A>G,"Germany, France, Netherlands",28-49,Limb,Positive,FTD
+ANG,Exon ,c.311C>G,Netherlands,N/A,NaN,N/A,N/A
+ANG,Exon ,c.338G>A,Italy,44,Limb,Positive,N/A
+ANG,Exon ,c.298T>A,Netherlands,N/A,NaN,N/A,N/A
+ANG,Exon ,c.379G>A,China,55,UL,Positive,None
+ANG,Exon ,c.407C>T,"USA, Netherlands",N/A,NaN,N/A,N/A
+ANG,Exon ,c.409G>A,"Italy, Netherlands","51, 63",Limb,Positive,
+ANG,Exon ,c.413A>G,"Italy, Netherlands",68,Bulbar,Positive,
+ANG,Exon ,c.434G>A,"France, Netherlands",31,UL,Positive,
+ANG,Exon ,c.433C>T,"Italy, Netherlands",72,"UL (with SOD1G93D, rapid)",Negative,None
+ANG,Intron,g.446C>T,Italy,N/A,NaN,N/A,N/A
+TDP-43,Exon ,c.506 A>G,France,56,Limb,Positive,None
+TDP-43,Exon ,c.800 A>G,Italy,427-66,UL (Frail arm),,"FTD, CBS"
+TDP-43,Exon ,c.859 G>A,"UK, France, Italy","52, 65, 70","Bulbar, limb",Positive,None
+TDP-43,Exon ,c.869 G>C,"Europe (Porland, Austria, Ukraina)",47-51,"Bulbar, UL",Positive,None
+TDP-43,Exon ,c.875 G>A,China,53-67,"Bulbar, UL, LL",Positive,None
+TDP-43,Exon ,c.881 G>C,Australia,65,Limb,N/A,None
+TDP-43,Exon ,c.881 G>T,"Australia, Italy",48-77,"Bulbar, UL",Positive,Dementia 
+TDP-43,Exon ,c.883 G>T,Netherlands,,Bulbar,,None
+TDP-43,Exon ,c.883 G>C,Italy,"37, 52",Bulbar,Positive,None
+TDP-43,Exon ,c.883 G>A,"France, Italy",54-65,"Bulbar, Spinal",,FTD/Dementia
+TDP-43,Exon ,c.892 G>A,"China, Japan",41-60,"Bulbar, UL, LL",Positive,None
+TDP-43,Exon ,c.909 A>C,Italy,53,Spinal,Positive,None
+TDP-43,Exon ,c.931 A>G,Belgium,"38, 50","Bulbar, UL, LL",N/A,Emotional lability
+TDP-43,Exon ,c.944 C>A,Japan,"40, 57, 63","UL (tremor), LL",Positive,Parkinsonism
+TDP-43,Exon ,c.943 G>A,"Europe, France, Turkey",47-74,Limb,Positive,None
+TDP-43,Exon ,c.962 C>G,UK,53,"UL, trunk",Positive,None
+TDP-43,Exon ,c.962 C>T,UK,38,UL,Positive,None
+TDP-43,Exon ,c.991 C>A,UK,72,Limb,N/A,None
+TDP-43,Exon ,c.995 G>A,Italy,64,Limb,Positive,None
+TDP-43,Exon ,c.1004 G>A,Italy,20,Limb,Negative,None
+TDP-43,Exon ,c.1009 A>G,"UK, Italy, Japan, Taiwan",38-57,"Bulbar, UL, LL",Positive,None
+TDP-43,Exon ,c.1028 A>G,Japan,52-75,Bulbar,N/A,None
+TDP-43,Exon ,c.1035 C>A,North America,"41, 43","Bulbar, limb",N/A,None
+TDP-43,Exon ,c.1042 G>T,"Belgium, France, Germany",30-53,Limb,Positive,"Apathy, major anxiety"
+TDP-43,Exon ,c.1043 G>T,"China, England, North America, USA",36-57,"UL, LL",Positive,None
+TDP-43,Exon ,c.1055 A>G,"Germany, Japan, Netherlands",39-68,"UL, LL",Negative,None
+TDP-43,Exon ,c.1055 A>C,North America,"66, 67",UL,Positive,None
+TDP-43,Exon ,c.1069 G>C,Denmark,,Bulbar,,None
+TDP-43,Exon ,c.1069 G>A,Japan,"43, 59",Limb,N/A,None
+TDP-43,Exon ,c.1075A>G,Italy,59,Bulbar,N/A,N/A
+TDP-43,Exon ,c.1082 G>C,Norway,,Spinal,,FTD
+TDP-43,Exon ,c.1083 G>T,France,55,Limb,Positive,None
+TDP-43,Exon ,c.1087 C>G,France,,Spinal,,None
+TDP-43,Exon ,c.1102 G>A,Italy,,Bulbar,,None
+TDP-43,Exon ,c.1120–1121insA,France,,Spinal,,None
+TDP-43,Exon ,c.1127 G>A,"Australia, Italy",58,UL,N/A,None
+TDP-43,Exon ,c.1132 A>G,"North America, Taiwan","37, 60","Bulbar, LL",Positive,None
+TDP-43,Exon ,c.1133 A>G,China,39,UL,N/A,None
+TDP-43,Exon ,c.1135 T>C,"Denmark, Italy, Pacific island",40,"Bulbar, limb",N/A,None
+TDP-43,Exon ,c.1136 C>G,Italy,72,Limb,Negative,None
+TDP-43,Exon ,c.1144 G>C,France,32-69,Limb,,None
+TDP-43,Exon ,c.1144 G>A,"France, Italy, USA",36-75,"Bulbar, limb",Positive,FTD/Parkinsonism 
+TDP-43,Exon ,c.1147 A>G,"Italy, Netherlands, USA, Turkey",25-67,"Bulbar, UL, LL",Positive,FTD
+TDP-43,Exon ,c.1150 G>C,"France, USA",45,UL,Positive,None
+TDP-43,Exon ,c.1153 T>G,France,,Spinal,,None
+TDP-43,Exon ,c.1158_1159delAT insCACCAACC,Italy,52,UL,N/A,None
+TDP-43,Exon ,c.1168 A>G,Quebec,"53, 72","Limb, bulbar",Positive,None
+TDP-43,Exon ,c.1169 A>G,"France, Italy","39, 64, 73","Bulbar, Spinal",Positive,Agitation
+TDP-43,Exon ,c.1178 C>T,Italy,60,Limb,Positive,None
+FIG4,Exon ,c.547C>T,USA,62,Bulbar,Positive,None
+FIG4,Exon ,c.1207C>T,USA,60,Bulbar,Positive,None
+FIG4,Exon ,c.67?1G>T,USA,77,UL,Positive,None
+FIG4,Exon ,c.1386+5G>T,USA,57,UL,Positive,None
+FIG4,Exon ,c.157G>T,USA,56,Bulbar,Positive,None
+FIG4,Exon ,c.143A>G,USA,29,LL,Positive,None
+FIG4,Exon ,c.1162A>G,USA,42,LL,Positive,None
+FIG4,Exon ,c.1231A>G,USA,62,Bulbar,Positive,None
+FIG4,Exon ,c.1940T>G,USA,65,Bulbar,Positive,None
+FIG4,Exon ,c.2705T>C,USA,55,Bulbar,Positive,None
+OPTN ,Exon ,"Exon 1-4 deletion, heterozygous",Japan,43,Spinal,N/A,N/A
+OPTN ,Exon ,"c.7C>T, heterozygous",Italy,67,Limb,N/A,N/A
+OPTN ,Exon ,"c.67G>T, heterozygous ",Italy,,NaN,,
+OPTN ,Exon ,"c.46C>G, heterozygous",Italy,76,Bulbar,N/A,N/A
+OPTN ,Exon ,"Exon 3-5 deletion, heterozygous",Japan,44-65,Bulbar,N/A,N/A
+OPTN ,Exon ,"c.277G>C, heterozygous",Japan,N/A,Spinal,N/A,N/A
+OPTN ,Exon ,"deletion, homozygous",Japan,"33, 36, 43","UL, LL",Positive,Brain atrophy
+OPTN ,Exon ,"c.287G>T, heterozygous",France,56,LL,N/A,N/A
+OPTN ,Exon ,Compound heterozygous,Turkey,33-36,"Limb, bulbar",N/A,N/A
+OPTN ,Exon ,"c.552+1delG, heterozygous",Italy,N/A,NaN,N/A,N/A
+OPTN ,Exon ,"c.493C>T, c.495C>T, heterozygous ","Netherlands, Denmark",42-83,"UL, bulbar",Positive,None
+OPTN ,Exon ,"c.844A>C, heterozygous ",Italy,N/A,NaN,N/A,N/A
+OPTN ,Exon ,"c.382_383insAG, heterozygous",France,46,NaN,N/A,N/A
+OPTN ,Exon ,"c.941A>T, heterozygous",Italy,N/A,NaN,N/A,N/A
+OPTN ,Exon ,"p.359delAA, homozygous",Turkey,30-48,"Limb, bulbar",N/A,N/A
+OPTN ,Intron,c.1242+1G>A_insA,Europe,N/A,NaN,N/A,N/A
+OPTN ,Intron,"c.1320delA, heterozygous",Germany,"35, 49, 63",Spinal,N/A,None
+OPTN ,Intron,"c.1401+4A>G, heterozygous",Italy,N/A,NaN,N/A,N/A
+OPTN ,Exon ,"c.1502C>T, homozygous",Japan,"44, 52","Bulbar, UL",Positive,Brain atrophy
+OPTN ,Exon ,"c.1362C>G, heterozygous ",Netherlands,67,Bulbar,Positive,N/A
+OPTN ,Exon ,"c.1743A>G, heterozygous and homozygous",Japan,49-64,"Bulbar, UL>LLr",Positive,"AGD (Personality change, depression)"
+OPTN ,Exon ,NaN,Europe,N/A,NaN,,
+OPTN ,Exon ,"c.1481T>G, heterozygous",Taiwan,47,UL (frail arm),N/A,None
+OPTN ,Exon ,"c.1499T>C, heterozygous",Italy,N/A,NaN,N/A,N/A
+OPTN ,Exon ,NaN,Germany,"47, 81",LL,Positive,None
+OPTN ,Exon ,"c.1670A>C, heterozygous",Italy,N/A,NaN,N/A,N/A
+OPTN ,Exon ,"c.1703T>C, heterozygous",Italy,67,Limb,N/A,N/A
+ATXN2,Exon ,intermediate length expansion of CAG reeat,"USA, Belgium, Netherlands, Canada, France, China, Germany, Switzerland, Italy, Turkey, Cuba",21-87,"UL, LL, bulbar",Positive,None
+VCP,Exon ,c.340A>G,Netherlands,45-52,"UL, LL",Positive,None
+VCP,Exon ,c.451A>G,African American,68,LL,Positive,None
+VCP,Exon ,c.463C>T,USA,N/A,NaN,N/A,N/A
+VCP,Exon ,c.464G>A,Caucasian,37-63,"UL, LL",Positive,FTD
+VCP,Exon ,c.472A>G,Japan,36,"LL, UL",Positive,None
+VCP,Exon ,c.475C>G,USA,46-53,"LL, UL",Positive,FTD
+VCP,Exon ,c.475C>T,USA,53-68,LL,Positive,None
+VCP,Exon ,c.476G>A,Netherlands,59,UL,Positive,FTD
+VCP,Exon ,c.571C>G,Israel,42-50,"LL, bulbar",Positive,None
+VCP,Exon ,c.572G>A,"Italy, Caucasian",37-53,"LL, UL",Positive,FTD
+VCP,Exon ,c.1160A>C,USA,57,LL,Positive,None
+VCP,Exon ,c.1704A>G,Italy,N/A,NaN,N/A,N/A
+VCP,Exon ,c.1774G>A,Caucasian,52,Bulbar,Positive,None
+VCP,Exon ,c.1984C>T,USA,67,LL,Positive,None
+UBQLN2,Exon ,c.464G>A,France,51,Bulbar,Positive,None
+UBQLN2,Exon ,c.565C>A,France,46,Limb,Positive,None
+UBQLN2,Exon ,c.845C>T,Germany,54,FTD alone,Negative,FTD
+UBQLN2,Exon ,c.847G>A,Germany,72,LL (distal),Positive,None
+UBQLN2,Exon ,c.942T>A,Korea,30-60,LL,Positive,N/A
+UBQLN2,Exon ,c.1037C>G,Belgium,77,FTD (bvFTD),Negative,FTD
+UBQLN2,Exon ,NaN,Turkey,15,"LL, Madras-type MND ",Positive,N/A
+UBQLN2,Exon ,c.1198A>G,Belgium,78,(rapid),Positive,N/A
+UBQLN2,Exon ,c.1274A>G,Germany,51,UL (distal),Positive,None
+UBQLN2,Exon ,c.1319C>T,Bulgaria,30,NaN,Positive,N/A
+UBQLN2,Exon ,c.1337T>G,Italy,43,Limb (with TDP-43 p.M337V),N/A,N/A
+UBQLN2,Exon ,c.1460C>T,Australia,33-73,"Bulbar, UL",Positive,None
+UBQLN2,Exon ,c.1489C>T ,USA,"29,25-44",NaN,N/A,FTD
+UBQLN2,Exon ,c.1490C>T,USA,"4-8, 20-63","Bulbar, LL, UL (awkward involuntary movements, brain iron deposition)",Positive,FTD
+UBQLN2,Exon ,c.1490C>A,"USA, Italy","19,49,37,62",Bulbar,N/A,FTD
+UBQLN2,Exon ,c.1500_1508delCATAGGCCC,France,52-64,Bulbar,N/A,None
+UBQLN2,Exon ,c.1516C>A,USA,16-40,"UL, bulbar",Positive,FTD
+UBQLN2,Exon ,c.1516C>T ,"USA, Turkey, Italy",21-30,"Bulbar, Limb (PLS, PBP)",Positive,FTD
+UBQLN2,Exon ,c.1525C>T,USA,53-59,NaN,N/A,None
+UBQLN2,Exon ,c.1573C>T,"USA, Turkey","22, 71",NaN,N/A,None
+UBQLN2,Exon ,c.1598C>T,Italy,34,Limb (with OPTN p.Q314L),N/A,N/A
+UBQLN2,Exon ,c.1612G>C,Italy,57,Bulbar,,
+SIGMAR1,Exon ,c.304G>C ,Saudi Arabia,,LL>UL,Positive,None
+SIGMAR1,Intron ,c.672*51G>T,Australia,43-68,"Bulbar, limb",Positive,FTD
+SIGMAR1,Intron ,c.*58T>C,Korea,55,Limb (slow),N/A,N/A
+CHMP2B,Exon ,c.65G>A,Netherlands,57,UL,Positive,
+CHMP2B,Exon ,c.85A>G,Denmark,49-64,LL>UL,Negative,None
+CHMP2B,Exon ,c.161A>C,Netherlands,68,Bulbar,Positive,
+CHMP2B,Exon ,c.206G>A,Netherlands,26,UL (PMA),Negative,
+CHMP2B,Exon ,c.248C>T,Netherlands,71,UL,Positive,
+CHMP2B,Exon ,c.311C>A,Denmark,54,"Bulbar, respiration",Negative,None
+CHMP2B,Exon ,c.618A>C,Denmark,73,"Bulbar, UL",Negative,None
+PFN1,Exon,c.347T>G,Caucasian ,50,Limb,N/A,N/A
+PFN1,Exon,c.477T>C,"Sephardic Jewish, Italy",41.9-52,Limb,N/A,N/A
+PFN1,Exon,c.486AA>GT,NaN,33.9-63,Limb,N/A,N/A
+PFN1,Exon,c.489G>T,NaN,43,Limb,N/A,N/A
+ERBB5,Exon,c.2780G>A,"Japan, Canada","60, 60, 63, 67, 70","Bulbar, UL, respiration",Positive,None
+ERBB5,Exon,c.3823C>T,Japan,45,UL,Positive,None
+HNRNPA1,Exon,c.784/940G>A,NaN,N/A,NaN,N/A,N/A
+HNRNPA1,Exon,c.800/956A>G,NaN,N/A,NaN,N/A,N/A
+MATR3,Exon ,c.214G>A,Taiwan,53,Bulbar,Positive,N/A
+MATR3,Exon ,"c.254C>G, chr5:138643358, C>G",USA,36-54,"LL>UL, bulbar",Positive,None
+MATR3,Exon ,"chr5:138643448, T>G",USA,N/A,NaN,N/A,FTD
+MATR3,Exon ,"chr5:138643564, C>T",UK,N/A,NaN,N/A,N/A
+MATR3,Exon ,"chr5:138658372, A>G",Italy (Sardinia),64,NaN,N/A,N/A
+C9ORF72,Exon,GGGGCC hexanucleotide repeat expansion,"Finland, Sardinia,  Ireland, UK, Italy, USA,Canada, Germany, Netherlands, Turkey, Israel, Australia, Japan",27-80,Limb>bulbar,Positive,FTD
+CHCHD10,Exon,c.44C>A,"USA, Germany",35-73,UL,Positive,FTD
+CHCHD10,Exon,c.100C>T,"France, Italy","44, 57, 61, 67, 69","Bulbar, UL",Positive,FTD
+CHCHD10,Exon,c.176C>T,"France, Spain",49-65,"Bulbar, LL (cerebellar ataxia, mitochondrial myopathy, deafness, neurogenic bladder, facial paresis, Parkinsonism)",Negative,FTD
+CHCHD10,Exon,c.197C>A,Finland,35-73,LL (slow),Positive,None
+TBK1,Exon,c.140G>A,Germany,N/A,Spinal,N/A,N/A
+TBK1,Exon,c.314A>G,Germany,N/A,NaN,N/A,N/A
+TBK1,Exon,c.358+2T>C,Germany,35-58,Spinal,N/A,N/A
+TBK1,Exon,NaN,Caucasian,68,NaN,N/A,FTD
+TBK1,Exon,c.555T>A,Germany,37-47,Spinal,Positive,None
+TBK1,Exon,c.914T>C,Sweden,N/A,NaN,N/A,N/A
+TBK1,Exon,NaN,NaN,70,NaN,N/A,FTD
+TBK1,Exon,c.923G>A,Sweden,37,UL,Positive,None
+TBK1,Exon,c.958_958delA,Sweden,60,UL,Positive,N/A
+TBK1,Exon,c.1070G>A,Sweden,61,Bulbar,Positive,None
+TBK1,Exon,NaN,NaN,80,NaN,N/A,FTD
+TBK1,Exon,c.1318C>T,France,47-73,Spinal,Positive,FTD
+TBK1,Exon,c.1340+1G>A,Sweden,56-65,"UL, LL, bulbar",Positive,FTD
+TBK1,Exon,c.1343_1346delAATT,"Denmark, Sweden",51-77,"LL, UL, bulbar, dyspnea",Positive,dementia
+TBK1,Exon,c.1434_1435delTG,Sweden,58-64,"UL, LL",Positive,FTD
+TBK1,Exon,NaN,NaN,N/A,NaN,N/A,N/A
+TBK1,Exon,c.1676T>G,Portugal,60,UL,Positive,None
+TBK1,Exon,NaN,NaN,56,Bulbar,Positive,None
+TBK1,Exon,c.1712C>T,Sweden,66,Bulbar,Positive,None
+TBK1,Exon,c.1792A>G,Sweden,61,Bulbar,Positive,None
+TBK1,Exon,c.1928_1930delAAG,Germany,N/A,Spinal,Positive,N/A
+TBK1,Exon,c.2086G>A,Sweden,61-78,Bulbar,Positive,FTD
+TBK1,Exon,c.2138+2T>C,"Denmark, Sweden",52-78,"UL, LL, bulbar",Positive,FTD
